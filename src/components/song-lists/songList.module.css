@@ -1,0 +1,7 @@
+.songsList {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 0px;
+  /* background-color: green; */
+  padding: .5rem;
+}

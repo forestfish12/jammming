@@ -1,0 +1,29 @@
+.track {
+  display: flex;
+  justify-content: center;
+  margin-bottom: .5rem;
+  background-color: #333333;
+  padding-left: 1rem;
+}
+
+.track__info {
+  flex-grow: 1;
+}
+
+.track__action {
+  background-color: inherit;
+  color: inherit;
+  /* border: none; */
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  border: none;
+  border-left: 2px solid white;
+}
+
+.track__action:hover {
+  background-color: #434343;
+}
+
+.track__action:active {
+  background-color: #000000;
+}

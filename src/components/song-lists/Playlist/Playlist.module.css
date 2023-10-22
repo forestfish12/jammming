@@ -1,0 +1,18 @@
+.saveButton, .nameInput {
+  background-color: hsla(0, 0%, 100%, 0.25);
+  color: inherit;
+  border: none;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+}
+
+.nameInput {
+  border-bottom: 2px solid white;
+  outline: none;
+  margin-bottom: 1rem;
+}
+
+.saveButton {
+  margin-top: 1rem;
+  border-radius: .4rem;
+}
